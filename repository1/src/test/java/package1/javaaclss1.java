@@ -7,6 +7,7 @@ public class javaaclss1 {
 		System.out.println("hello");
 		//hi welcome
 		//working
+		//thank you
 	}
 
 }
